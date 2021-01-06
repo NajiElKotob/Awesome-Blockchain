@@ -8,3 +8,9 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 
 ## Articles
 [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Marco Iansiti and Karim R. Lakhani
+
+
+-----
+
+## Videos
+* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown

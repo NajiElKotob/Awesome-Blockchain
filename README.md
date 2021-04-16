@@ -15,23 +15,34 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Security
 * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp)
 
+
 -----
-
-## Bitcoin
-### Videos
-* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
-
-## Hyperledger
-
-## Ethereum
 
 ## Cryptocurrency
 
-## Quorum
+### Prices
+* [Today's Cryptocurrency Prices by Market Cap](https://coinmarketcap.com/)
 
-## Corda
+### Articles
+* [The 10 Most Important Cryptocurrencies Other Than Bitcoin](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin) - investopedia.com
+
+-----
+
+### Bitcoin
+#### Videos
+* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
+
+### Hyperledger
+
+### Ethereum
+
+### Cryptocurrency
+
+### Quorum
+
+### Corda
 
 
-## Stablecoin
-### Tether (USDT)
+### Stablecoin
+#### Tether (USDT)
 * [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)

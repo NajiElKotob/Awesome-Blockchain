@@ -29,7 +29,6 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 -----
 
 ### Bitcoin
-#### Videos
 * [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
 
 ### Hyperledger

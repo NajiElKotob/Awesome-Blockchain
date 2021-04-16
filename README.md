@@ -31,3 +31,7 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 
 ## Corda
 
+
+## Stablecoin
+### Tether (USDT)
+* [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)

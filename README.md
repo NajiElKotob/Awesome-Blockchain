@@ -34,6 +34,7 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Hyperledger
 
 ### Ethereum
+* [What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/) - forbes.com (March 2021)
 
 ### Cryptocurrency
 

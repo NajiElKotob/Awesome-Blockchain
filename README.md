@@ -50,4 +50,4 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 -----
 ## Languages
  * Scilla (A functional programming language for writing smart contracts on the Zilliqa Blockchain)
-  * [Learn Scilla](https://learnscilla.com/home) 
+   * [Learn Scilla](https://learnscilla.com/home) 

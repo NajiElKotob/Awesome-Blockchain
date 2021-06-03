@@ -46,3 +46,8 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Stablecoin
 #### Tether (USDT)
 * [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)
+
+-----
+## Languages
+ * Scilla (A functional programming language for writing smart contracts on the Zilliqa Blockchain)
+  * [Learn Scilla](https://learnscilla.com/home) 

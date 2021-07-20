@@ -26,6 +26,8 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Articles
 * [The 10 Most Important Cryptocurrencies Other Than Bitcoin](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin) - investopedia.com
 
+## NFT
+* [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
 -----
 
 ### Bitcoin

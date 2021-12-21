@@ -28,7 +28,6 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 
 ## Cryptocurrency
 
-
 ### Bitcoin
 * [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
 
@@ -36,9 +35,16 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 * [What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/) - forbes.com (March 2021)
 * [Differences Between Bitcoin and Ethereum](https://www.wallstreetmojo.com/bitcoin-vs-ethereum/) - wallstreetmojo.com
 
-### Quorum
+### Litecoin (LTC)
 
-### Corda
+### Cardano (ADA)
+### Polkadot (DOT)
+### Bitcoin Cash (BCH)
+### Stellar (XLM)
+### Dogecoin (DOGE)
+### Binance Coin (BNB)
+### Monero (XMR)
+### Quorum
 
 ### Stablecoin
 #### Tether (USDT)

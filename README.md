@@ -15,41 +15,42 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Security
 * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp)
 
+### Hyperledger
+
+-----
+## NFT
+* [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
+* [How to turn your art into an NFT – Step by Step Tutorial](https://www.youtube.com/watch?v=CFD_8oDxw1k) - 3D Gladiator
+
 
 -----
 
+
 ## Cryptocurrency
+
+
+### Bitcoin
+* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
+
+### Ethereum
+* [What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/) - forbes.com (March 2021)
+* [Differences Between Bitcoin and Ethereum](https://www.wallstreetmojo.com/bitcoin-vs-ethereum/) - wallstreetmojo.com
+
+### Quorum
+
+### Corda
+
+### Stablecoin
+#### Tether (USDT)
+* [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)
+
+-----
 
 ### Prices
 * [Today's Cryptocurrency Prices by Market Cap](https://coinmarketcap.com/)
 
 ### Articles
 * [The 10 Most Important Cryptocurrencies Other Than Bitcoin](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin) - investopedia.com
-
-## NFT
-* [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
-* [How to turn your art into an NFT – Step by Step Tutorial](https://www.youtube.com/watch?v=CFD_8oDxw1k) - 3D Gladiator
------
-
-### Bitcoin
-* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - 3Blue1Brown
-
-### Hyperledger
-
-### Ethereum
-* [What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/) - forbes.com (March 2021)
-* [Differences Between Bitcoin and Ethereum](https://www.wallstreetmojo.com/bitcoin-vs-ethereum/) - wallstreetmojo.com
-
-### Cryptocurrency
-
-### Quorum
-
-### Corda
-
-
-### Stablecoin
-#### Tether (USDT)
-* [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)
 
 -----
 ## Languages

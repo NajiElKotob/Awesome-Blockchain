@@ -34,6 +34,8 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Ethereum
 * [What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/) - forbes.com (March 2021)
 * [Differences Between Bitcoin and Ethereum](https://www.wallstreetmojo.com/bitcoin-vs-ethereum/) - wallstreetmojo.com
+* [Etherscan](https://etherscan.io/) - etherscan.io | The Ethereum Blockchain Explorer
+
 
 ### Litecoin (LTC)
 

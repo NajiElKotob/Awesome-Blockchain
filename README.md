@@ -9,6 +9,7 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ## Blockchain
 
 ### Articles
+* [The World’s Oldest Blockchain Has Been Hiding in the New York Times Since 1995](https://www.vice.com/en/article/j5nzx4/what-was-the-first-blockchain) - vice.com
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Marco Iansiti and Karim R. Lakhani
 * [Permissioned Blockchains](https://www.investopedia.com/terms/p/permissioned-blockchains.asp)
 

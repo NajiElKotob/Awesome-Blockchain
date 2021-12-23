@@ -12,8 +12,13 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Marco Iansiti and Karim R. Lakhani
 * [Permissioned Blockchains](https://www.investopedia.com/terms/p/permissioned-blockchains.asp)
 
+### Vidoes
+* [What Is Blockchain?](https://www.youtube.com/watch?v=6WG7D47tGb0) - World Economic Forum
+
+
 ### Security
 * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp)
+
 
 ### Hyperledger
 

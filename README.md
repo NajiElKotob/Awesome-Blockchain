@@ -57,6 +57,10 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Stablecoin
 #### Tether (USDT)
 * [What is Tether (USDT)?](https://www.youtube.com/watch?v=Kt0HlIP06d8)
+##### Tether Gold (Gold)
+``` A digital token, backed by physical gold ```
+* [Tether Gold (Gold)](https://gold.tether.to/)
+
 
 -----
 

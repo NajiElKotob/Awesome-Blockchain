@@ -9,13 +9,13 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ## Blockchain
 
 ### Articles
-* [The World’s Oldest Blockchain Has Been Hiding in the New York Times Since 1995](https://www.vice.com/en/article/j5nzx4/what-was-the-first-blockchain) - vice.com
+* [The World’s Oldest Blockchain Has Been Hiding in the New York Times Since 1995](https://www.vice.com/en/article/j5nzx4/what-was-the-first-blockchain) :star: - vice.com
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Marco Iansiti and Karim R. Lakhani
 * [Permissioned Blockchains](https://www.investopedia.com/terms/p/permissioned-blockchains.asp)
 
 ### Vidoes
 * [What Is Blockchain?](https://www.youtube.com/watch?v=6WG7D47tGb0) - World Economic Forum
-
+* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) :star: - 3Blue1Brown
 
 ### Security
 * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp) - investopedia.com

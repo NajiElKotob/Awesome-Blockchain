@@ -18,8 +18,8 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 
 
 ### Security
-* [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp)
-
+* [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp) - investopedia.com
+* [Blockchain Isn’t as Unbreakable as You Think](https://sloanreview.mit.edu/article/blockchain-isnt-as-unbreakable-as-you-think/) - sloanreview.mit.edu
 
 ### Hyperledger
 

@@ -70,6 +70,9 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ### Articles
 * [The 10 Most Important Cryptocurrencies Other Than Bitcoin](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin) - investopedia.com
 
+### Learning
+* [BLOC-511DL: Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - unic.ac.cy
+
 -----
 ## Languages
  * Scilla (A functional programming language for writing smart contracts on the Zilliqa Blockchain)

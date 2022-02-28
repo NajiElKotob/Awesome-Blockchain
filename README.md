@@ -25,8 +25,7 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 
 -----
 ## NFT
-* [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
-* [How to turn your art into an NFT – Step by Step Tutorial](https://www.youtube.com/watch?v=CFD_8oDxw1k) - 3D Gladiator
+* [Awesome NFT](https://github.com/NajiElKotob/Awesome-NFT/) - Naji El Kotob
 
 
 -----

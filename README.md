@@ -17,6 +17,10 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 * [What Is Blockchain?](https://www.youtube.com/watch?v=6WG7D47tGb0) - World Economic Forum
 * [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) :star: - 3Blue1Brown
 
+### Podcast
+* [The digital economy could constitute 30% of the Lebanese economy (Arabic)](https://www.vdl.me/news/%d8%b4%d9%88%d8%b4%d8%a7%d9%86%d9%8a-%d9%84%d9%85%d8%b4-%d9%81%d8%a7%d9%84%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d9%8a%d9%85%d9%83%d9%86/) - vdl.me
+
+
 ### Security
 * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp) - investopedia.com
 * [Blockchain Isn’t as Unbreakable as You Think](https://sloanreview.mit.edu/article/blockchain-isnt-as-unbreakable-as-you-think/) - sloanreview.mit.edu

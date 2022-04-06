@@ -64,6 +64,10 @@ blockchain is an open, distributed ledger that records transactions safely, perm
 ``` A digital token, backed by physical gold ```
 * [Tether Gold (Gold)](https://gold.tether.to/)
 
+-----
+
+### Wallet 💱
+* [MetaMask](https://metamask.io/) 🦊 - metamask.io
 
 -----
 
